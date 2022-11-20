@@ -2,278 +2,156 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Clément Goubier",
-    "label": "Back-end Developer chez Display",
-    "image": "",
+    "label": "Back end developer",
+    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQG7iiaVSURYMQ/profile-displayphoto-shrink_400_400/0/1516970120402?e=1674691200&v=beta&t=Lm3mAuAp-h0vDXG9VYiGj4w2eGm85ZJQckb5q-Ux72Q",
     "email": "clement.goubier@gmail.com",
-    "phone": "06790388",
-    "url": "",
-    "summary": "",
+    "phone": "+33 6 79 03 88",
+    "url": "https://clmntgbr.github.io/resume",
+    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
     "location": {
-      "countryCode": "FR",
-      "address": "France"
+      "address": "5 voie des meuniers",
+      "postalCode": "94550",
+      "city": "Chevilly Larue"
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "clementgoubier",
-        "url": "https://www.linkedin.com/in/clementgoubier/"
+        "network": "Github",
+        "username": "clmntgbr",
+        "url": "https://github.com/clmntgbr"
       }
     ]
   },
   "work": [
     {
-      "name": "Display Interactive",
-      "position": "Back-end Developer",
-      "startDate": "2022-03-31",
-      "endDate": "",
-      "highlights": [],
-      "url": "https://www.linkedin.com/company/display-interactive/",
-      "location": "Montrouge, Île-de-France, France"
-    },
-    {
-      "name": "Webcentric-Fanaticalhelp",
-      "position": "Back-end Developer",
-      "startDate": "2021-10-31",
-      "endDate": "2022-03-31",
-      "highlights": [],
-      "summary": "Depuis 2002, Webcentric intervient dans quatre domaines de compétence auprès de ses clients B2b : ventes de matériels, systèmes et réseaux, hébergement & développement web. Sur ce dernier volet, Webcentric travaille en mode projet et développe des sites, back-offices et applications à forte charge. Les projets durent en moyenne entre 3 et 6 mois et concernent des secteurs très variés comme l’industrie ou l’événementiel.\n\nMissions\n• Développer de sites web, back-offices et applications mobiles pour les clients\n• Tester et déployer lecode\n• Contribuer à la maintenance et à l’évolution des projets existants\n• Mettre en place les process nécessaires à une qualité constante du code\n• Organiser les sprints et appliquer les principes agiles\n\nStack technique\n• PHP 7, Symfony (API Platform)\n• MySQL / MariaDB\n• Docker, Kubernetes\n• API REST\n• RabbitMQ\n• Git / Gitlab\n• Architecture micro-services",
-      "url": "https://www.linkedin.com/company/webcentric/",
-      "location": "Région de Paris, France"
-    },
-    {
-      "name": "Castelis",
-      "position": "Back-end Developer",
-      "startDate": "2020-02-28",
-      "endDate": "2021-09-30",
-      "highlights": [],
-      "summary": "Castelis conçoit, développe, déploie et exploite des solutions digitales innovantes et sur mesure pour le compte de clients issus de tous secteurs d’activité : industriel, tertiaire, etc. Fort de ses 85 collaborateurs, ingénieurs d’études et développement, ingénieurs cloud, data scientists, chefs de projets, architectes et consultants.\n\nStack technique\n• PHP 5.4\n• MySQL\n• Docker\n• API REST\n• RabbitMQ\n• Git / Gitlab",
-      "url": "https://www.linkedin.com/company/castelis/",
-      "location": "Ivry-sur-Seine, Île-de-France, France"
-    },
-    {
-      "name": "Mention",
-      "position": "Back-end Developer",
-      "startDate": "2019-04-30",
-      "endDate": "2020-02-28",
-      "highlights": [],
-      "summary": "Mention changes the way companies monitor their online presence. Monitor your company name, brand, competitors, or industry trends for real­time updates on any mentions over the web and social networks. Take action to react, collaborate, and analyze your online presence ! \n\nWith over 750,000 professionals using the app in 125+ countries from companies such as Spotify, Airbnb, MIT, Microsoft, Lamborghini and Etsy, Mention is focused on helping companies of any size to know what’s being said about their brand, competitors, industry, etc\n\nStack technique\n• PHP 7, Symfony\n• MySQL\n• Docker\n• API REST, GraphQL\n• RabbitMQ",
-      "url": "https://www.linkedin.com/company/mention/",
-      "location": "Région de Paris, France"
-    },
-    {
-      "name": "Youmiam",
-      "position": "Back-end Developer",
-      "startDate": "2018-01-31",
-      "endDate": "2019-02-28",
-      "highlights": [],
-      "summary": "• Gestion de l'API REST en liaison avec l'équipe mobile pour les applications IOS & Android\n• Développer et intégrer de nouvelles fonctionnalités-clés en partenariat avec Franprix, Auchan, Frichti, etc ...\n• Identifier les pistes d’optimisations pour proposer un service toujours plus rapide et robuste.\n• Livrer du code de qualité et testé\n• Participer aux tâches de développement Front.\n• Création de fichiers techniques pour la mise en place des features",
-      "url": "https://www.linkedin.com/company/youmiam/",
-      "location": "Région de Paris, France"
-    },
-    {
-      "name": "TWIL - The Wine I Love",
-      "position": "Back-end Developer",
-      "startDate": "2016-09-30",
-      "endDate": "2018-01-31",
-      "highlights": [],
-      "summary": "• Assurer le développement de nouvelles fonctionnalités du BackOffice SF2, du site Magento et de l’API REST pour l'application mobile.\n• Assurer les intégrations avec les systèmes tiers (Mirakl, UPELA, SMoney, UPS, etc ...) en s'appuyant sur le Webservice REST.\n• Assurer la gestion des serveurs et des mises en production.\n• Renforcer la fiabilité en améliorant les tests unitaires et la qualité générale du code.\n• Participer aux tâches de développement Front.",
-      "url": "https://www.linkedin.com/company/twil---the-wine-i-love/",
-      "location": "Saint-Ouen, Île-de-France, France"
+      "name": "Pied Piper",
+      "location": "Palo Alto, CA",
+      "description": "Awesome compression company",
+      "position": "CEO/President",
+      "url": "http://piedpiper.example.com",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "url": "http://coderdojo.example.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "ESGI",
-      "area": "Développement Web et E-Business",
-      "studyType": "Master",
-      "startDate": "2014-12-31",
-      "endDate": "2016-12-31",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "OiiO Formation",
-      "area": "Web",
-      "studyType": "DEES",
-      "startDate": "2013-12-31",
-      "endDate": "2014-12-31",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "Lycée Louis Jouvet",
-      "area": "Ingénierie informatique",
-      "studyType": "BTS IRIS",
-      "startDate": "2010-12-31",
-      "endDate": "2012-12-31",
-      "score": "",
-      "courses": []
+      "institution": "University of Oklahoma",
+      "url": "https://www.ou.edu/",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
     }
   ],
-  "awards": [],
-  "certificates": [],
-  "publications": [],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
   "skills": [
     {
-      "name": "Symfony",
-      "level": "",
-      "keywords": []
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
     },
     {
-      "name": "MySQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "PHP",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "E-commerce",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "UML",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "CSS",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Illustrator",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "CSS3",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Gantt",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Bash",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "HTML",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Photoshop",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JavaScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SEO",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Node.js",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Flash",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Programmation web",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "WordPress",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "jQuery",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "HTML 5",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "InDesign",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Anglais",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "PERT",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Linux",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "C++",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JSON",
-      "level": "",
-      "keywords": []
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
     }
   ],
   "languages": [
     {
-      "language": "fr",
-      "fluency": "Native Speaker"
-    },
-    {
-      "fluency": "Elementary",
-      "language": "Allemand"
-    },
-    {
-      "fluency": "Professional Working",
-      "language": "Anglais"
-    },
-    {
-      "fluency": "Native Speaker",
-      "language": "Français"
+      "language": "English",
+      "fluency": "Native speaker"
     }
   ],
-  "interests": [],
-  "references": [],
-  "projects": [],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Miss Direction",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Won award at AIHacks 2016",
+        "Built by all women team of newbie programmers",
+        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+      ],
+      "keywords": [
+        "GoogleMaps",
+        "Chrome Extension",
+        "Javascript"
+      ],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "url": "missdirection.example.com",
+      "roles": [
+        "Team lead",
+        "Designer"
+      ],
+      "entity": "Smoogle",
+      "type": "application"
+    }
+  ],
   "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
-    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    "lastModified": "2017-12-24T15:53:00"
   }
 }

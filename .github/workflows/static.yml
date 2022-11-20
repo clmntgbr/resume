@@ -31,7 +31,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - run: npm install
-      - run: npx resumed render
+      - run: npx resumed render --theme mooser
       - run: mkdir public
       - run: cp resume.html public/index.html
       - name: Setup Pages
@@ -39,7 +39,6 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          # Upload entire repository
           path: "public/"
       - name: Deploy to GitHub Pages
         id: deployment
