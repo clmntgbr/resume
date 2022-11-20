@@ -23,13 +23,87 @@
   },
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.example.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
+      "name": "Display Interactive",
+      "location": "Montrouge, Île-de-France",
+      "description": "Empower airlines to embrace innovative in-flight digital strategies with UGO, an IFE engagement solution !",
+      "position": "Back end developer",
+      "url": "https://www.display.aero",
+      "startDate": "2022-03-07",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
+    {
+      "name": "Webcentric",
+      "location": "Paris, Île-de-France",
+      "description": "Empower airlines to embrace innovative in-flight digital strategies with UGO, an IFE engagement solution !",
+      "position": "Back end developer",
+      "url": "https://www.wcentric.com",
+      "startDate": "2021-10-01",
+      "endDate": "2022-03-04",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
+    {
+      "name": "Castelis",
+      "location": "Ivry-sur-Seine, Île-de-France",
+      "description": "Empower airlines to embrace innovative in-flight digital strategies with UGO, an IFE engagement solution !",
+      "position": "Back end developer",
+      "url": "https://www.castelis.com",
+      "startDate": "2020-02-01",
+      "endDate": "2021-09-30",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
+    {
+      "name": "Mention",
+      "location": "Paris, Île-de-France",
+      "description": "Mention enables brands and agencies to monitor the web, listen to their audience and manage social media.",
+      "position": "Back end developer",
+      "url": "https://mention.com",
+      "startDate": "2019-04-01",
+      "endDate": "2020-02-28",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
+    {
+      "name": "Youmiam",
+      "location": "Paris, Île-de-France",
+      "description": "Empower airlines to embrace innovative in-flight digital strategies with UGO, an IFE engagement solution !",
+      "position": "Back end developer",
+      "url": "https://youmiam.com",
+      "startDate": "2018-01-15",
+      "endDate": "2019-02-28",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
+    {
+      "name": "TWIL",
+      "location": "Paris, Île-de-France",
+      "description": "Buy your bottle of wine at the wine merchant.",
+      "position": "Back end developer",
+      "url": "https://www.twil.fr",
+      "startDate": "2016-09-01",
+      "endDate": "2018-01-14",
       "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
         "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
@@ -53,16 +127,43 @@
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "url": "https://www.ou.edu/",
+      "institution": "ESGI",
+      "url": "https://www.esgi.fr",
       "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "score": "4.0",
+      "studyType": "Master’s Degree of Engineering",
+      "startDate": "2014-09-01",
+      "endDate": "2016-06-30",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "PHP, SQL, Symfony, NodeJS, JS",
+        "Projects managment, SEO, SEA",
+        "Web Security",
+        "UI/UX",
+        "Agile, TOEIC"
+      ]
+    },
+    {
+      "institution": "OIIO Formation",
+      "area": "Information Technology",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013-09-01",
+      "endDate": "2014-06-30",
+      "courses": [
+        "HTML, CSS, JS, JQUERY",
+        "MVC, SQL, CMS, Frameworks",
+        "Marketing"
+      ]
+    },
+    {
+      "institution": "BTS IRIS",
+      "url": "https://bit.ly/3AwizUv",
+      "area": "Information Technology",
+      "studyType": "Diploma of Higher Education",
+      "startDate": "2010-09-01",
+      "endDate": "2012-06-30",
+      "courses": [
+        "Algorithm",
+        "C, C++, PHP",
+        "Mathematic, Physic"
       ]
     }
   ],
@@ -88,22 +189,30 @@
       "name": "Web Development",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "PHP",
+        "Symfony",
+        "html",
+        "css",
+        "ApiRest",
+        "SQL",
+        "JS",
+        "NodeJs"
       ]
     },
     {
-      "name": "Compression",
+      "name": "Phone Development",
       "level": "Master",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Flutter",
+        "Dart"
       ]
     }
   ],
   "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
     {
       "language": "English",
       "fluency": "Native speaker"
@@ -140,7 +249,7 @@
       ],
       "startDate": "2016-08-24",
       "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
+      "url": "www.missdirection.example.com",
       "roles": [
         "Team lead",
         "Designer"
