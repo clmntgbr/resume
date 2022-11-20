@@ -185,41 +185,74 @@
     },
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Advanced"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Traveling",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Indonesia",
+        "India",
+        "Russia",
+        "Mexico",
+        "Egypt",
+        "USA"
+      ]
+    },
+    {
+      "name": "Reading",
+      "keywords": [
+        "Fantasy",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Movies & TV Shows",
+      "keywords": [
+        "HotD",
+        "Fight Club",
+        "Marvel & DC",
+        "Seven",
+        "Psych",
+        "Prisoners"
+      ]
+    },
+    {
+      "name": "Cooking",
+      "keywords": [
+        "French Food",
+        "Asian Food",
+        "Chocolate things"
+      ]
+    },
+    {
+      "name": "Coding",
+      "keywords": [
+        "PHP",
+        "Symfony",
+        "Flutter"
       ]
     }
   ],
   "projects": [
     {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
+      "name": "Project",
+      "description": "Description…",
       "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+        "Won award at AIHacks 2016"
       ],
       "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
+        "HTML"
       ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "www.missdirection.example.com",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "url": "https://project.com/",
       "roles": [
-        "Team lead",
-        "Designer"
+        "Team Lead"
       ],
-      "entity": "Smoogle",
-      "type": "application"
+      "entity": "Entity",
+      "type": "personal"
     }
   ],
   "meta": {
