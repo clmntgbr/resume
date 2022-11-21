@@ -7,7 +7,6 @@
     "email": "clement.goubier@gmail.com",
     "phone": "+33 6 79 03 88",
     "url": "https://clmntgbr.github.io/resume",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
     "location": {
       "address": "5 voie des meuniers",
       "postalCode": "94550",
@@ -44,11 +43,12 @@
       "url": "https://www.wcentric.com",
       "startDate": "2021-10-01",
       "endDate": "2022-03-04",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "summary": "• Develop websites, back-offices and mobile applications for clients <br>• Test and deploy the code <br>• Contribute to the maintenance and evolution of existing projects <br>• Set up the processes necessary for a constant quality of the code <br>• Organize sprints and apply agile principles",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "PHP 7, Symfony (API Platform)",
+        "MySQL / MariaDB",
+        "Docker, Kubernetes, RabbitMQ",
+        "Micro Services architeture"
       ]
     },
     {
@@ -74,11 +74,12 @@
       "url": "https://mention.com",
       "startDate": "2019-04-01",
       "endDate": "2020-02-28",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "summary": "Mention changes the way companies monitor their online presence. Monitor your company name, brand, competitors, or industry trends for real­time updates on any mentions over the web and social networks. Take action to react, collaborate, and analyze your online presence ! <br><br>With over 750,000 professionals using the app in 125+ countries from companies such as Spotify, Airbnb, MIT, Microsoft, Lamborghini and Etsy, Mention is focused on helping companies of any size to know what’s being said about their brand, competitors, industry, etc",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "PHP 7, Symfony",
+        "MySQL",
+        "Docker, RabbitMQ",
+        "API REST, GraphQL"
       ]
     },
     {
