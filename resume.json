@@ -28,17 +28,18 @@
       "position": "Back end developer",
       "url": "https://www.display.aero",
       "startDate": "2022-03-07",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "summary": "• Develop and maintain websites, back-offices for airline clients <br>• Install our solution on Board<br>• Test and write Specifications at the client in USA, SA, Irelan, etc ...<br>• Contribute to the maintenance and evolution of existing projects <br>• Set up the processes necessary for a constant quality of the code <br>• Organize sprints and apply agile principles",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "PHP 8, Symfony (API Platform), React, Python",
+        "Mysql",
+        "Docker, RabbitMQ, AWS, SSO, Ansible",
+        "PHPUnit, Behat"
       ]
     },
     {
       "name": "Webcentric",
       "location": "Paris, Île-de-France",
-      "description": "Empower airlines to embrace innovative in-flight digital strategies with UGO, an IFE engagement solution !",
+      "description": "A digital agency in Paris building solutions for companies !",
       "position": "Back end developer",
       "url": "https://www.wcentric.com",
       "startDate": "2021-10-01",
@@ -48,22 +49,23 @@
         "PHP 7, Symfony (API Platform)",
         "MySQL / MariaDB",
         "Docker, Kubernetes, RabbitMQ",
-        "Micro Services architeture"
+        "Micro Services architecture"
       ]
     },
     {
       "name": "Castelis",
       "location": "Ivry-sur-Seine, Île-de-France",
-      "description": "Empower airlines to embrace innovative in-flight digital strategies with UGO, an IFE engagement solution !",
+      "description": "Design innovative digital solutions on behalf of industrial and tertiary customers, adapted to the needs of each market and organization.",
       "position": "Back end developer",
       "url": "https://www.castelis.com",
       "startDate": "2020-02-01",
       "endDate": "2021-09-30",
       "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "PHP 7, HTML, CSS",
+        "MySQL / MariaDB",
+        "RabbitMQ",
+        "PHPUnit, Behat"
       ]
     },
     {
@@ -79,7 +81,8 @@
         "PHP 7, Symfony",
         "MySQL",
         "Docker, RabbitMQ",
-        "API REST, GraphQL"
+        "API REST, GraphQL",
+        "PHPUnit, Behat"
       ]
     },
     {
@@ -92,9 +95,11 @@
       "endDate": "2019-02-28",
       "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "PHP 7, Symfony",
+        "MySQL",
+        "RabbitMQ",
+        "API REST",
+        "PHPUnit, Behat"
       ]
     },
     {
@@ -107,9 +112,10 @@
       "endDate": "2018-01-14",
       "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "PHP 7, Symfony ,Magento",
+        "MySQL",
+        "API REST",
+        "PHPUnit, Behat"
       ]
     }
   ],
