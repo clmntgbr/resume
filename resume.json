@@ -60,7 +60,7 @@
       "url": "https://www.castelis.com",
       "startDate": "2020-02-01",
       "endDate": "2021-09-30",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "summary": "• Develop websites, back-offices and mobile applications for clients <br>• Test and deploy the code <br>• Contribute to the maintenance and evolution of existing projects <br>• Set up the processes necessary for a constant quality of the code <br>• Organize sprints and apply agile principles",
       "highlights": [
         "PHP 7, HTML, CSS",
         "MySQL / MariaDB",
@@ -177,6 +177,17 @@
       ]
     },
     {
+      "name": "DevOps",
+      "level": "Master",
+      "keywords": [
+        "Docker",
+        "RabbitMQ",
+        "GitlabCI",
+        "Github Actions",
+        "AWS"
+      ]
+    },
+    {
       "name": "Phone Development",
       "level": "Master",
       "keywords": [
@@ -244,19 +255,18 @@
   ],
   "projects": [
     {
-      "name": "Project",
-      "description": "Description…",
-      "highlights": [
-        "Won award at AIHacks 2016"
-      ],
+      "name": "Gas Price",
+      "description": "A full project based on symfony for the backend part and flutter for the app part, who gives to user the real time price of all gas station in France, ordered by price, services, gas types",
       "keywords": [
-        "HTML"
+        "PHP",
+        "Symfony",
+        "Flutter"
       ],
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "url": "https://project.com/",
+      "url": "https://www.google.com/",
       "roles": [
-        "Team Lead"
+        "Full stack developper"
       ],
       "entity": "Entity",
       "type": "personal"
