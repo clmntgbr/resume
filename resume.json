@@ -256,14 +256,45 @@
   "projects": [
     {
       "name": "Gas Price",
-      "description": "A full project based on symfony for the backend part and flutter for the app part, who gives to user the real time price of all gas station in France, ordered by price, services, gas types",
+      "description": "Real time gas prices of every station in France, filtering by gas types, services, lowest, highest and an historic of prices since 2015. Based on Flutter for the app part and symfony for the backend part.",
       "keywords": [
         "PHP",
         "Symfony",
         "Flutter"
       ],
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
+      "startDate": "2022-01-01",
+      "url": "https://www.google.com/",
+      "roles": [
+        "Full stack developper"
+      ],
+      "entity": "Entity",
+      "type": "personal"
+    },
+    {
+      "name": "Alert",
+      "description": "Sending alerts & notifications when a scanned product come close to the expiration date, ending wasting products. Based on Flutter for the app part and symfony for the backend part.",
+      "keywords": [
+        "PHP",
+        "Symfony",
+        "Flutter"
+      ],
+      "startDate": "2022-01-01",
+      "url": "https://www.google.com/",
+      "roles": [
+        "Full stack developper"
+      ],
+      "entity": "Entity",
+      "type": "personal"
+    },
+    {
+      "name": "Wine Cellar",
+      "description": "Organize your cellar and your wine bottles, receiving alerts and informations. Based on Flutter for the app part and symfony for the backend part.<br><a href=\"https://www.twil.fr\" target=\"_blank\"><i class=\"fas fa-globe ico\"></i> https://www.twil.fr</a>",
+      "keywords": [
+        "PHP",
+        "Symfony",
+        "Flutter"
+      ],
+      "startDate": "2022-01-01",
       "url": "https://www.google.com/",
       "roles": [
         "Full stack developper"
