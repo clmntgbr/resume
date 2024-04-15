@@ -3,7 +3,7 @@
   "basics": {
     "name": "Clément Goubier",
     "label": "Back end developer",
-    "image": "https://media.licdn.com/dms/image/C4E03AQG7iiaVSURYMQ/profile-displayphoto-shrink_800_800/0/1516970120402?e=1701907200&v=beta&t=dfBWZ38Grt3VUp0ULW4YXoSk0-LyDuu1oZ7l1ffFM1A",
+    "image": "https://media.licdn.com/dms/image/C4E03AQG7iiaVSURYMQ/profile-displayphoto-shrink_800_800/0/1516970121170?e=1718841600&v=beta&t=k9cFsgLgqxFg9P-zPCKIolbucjmN6frn-fi56ADcPow",
     "email": "clement.goubier@gmail.com",
     "phone": "+33 6 79 03 88",
     "url": "https://clmntgbr.github.io/resume",
@@ -255,47 +255,16 @@
   ],
   "projects": [
     {
-      "name": "Gas Price",
+      "name": "Energy Price",
       "description": "Real time gas prices of every station in France, filtering by gas types, services, lowest, highest and an historic of prices since 2015. Based on Flutter for the app part and symfony for the backend part.",
       "keywords": [
         "PHP",
         "Symfony",
-        "Flutter"
+        "Flutter",
+        "React"
       ],
       "startDate": "2022-01-01",
-      "url": "https://www.google.com/",
-      "roles": [
-        "Full stack developper"
-      ],
-      "entity": "Entity",
-      "type": "personal"
-    },
-    {
-      "name": "Alert",
-      "description": "Sending alerts & notifications when a scanned product come close to the expiration date, ending wasting products. Based on Flutter for the app part and symfony for the backend part.",
-      "keywords": [
-        "PHP",
-        "Symfony",
-        "Flutter"
-      ],
-      "startDate": "2022-01-01",
-      "url": "https://www.google.com/",
-      "roles": [
-        "Full stack developper"
-      ],
-      "entity": "Entity",
-      "type": "personal"
-    },
-    {
-      "name": "Wine Cellar",
-      "description": "Organize your cellar and your wine bottles, receiving alerts and informations. Based on Flutter for the app part and symfony for the backend part.<br><a href=\"https://www.twil.fr\" target=\"_blank\"><i class=\"fas fa-globe ico\"></i> https://www.twil.fr</a>",
-      "keywords": [
-        "PHP",
-        "Symfony",
-        "Flutter"
-      ],
-      "startDate": "2022-01-01",
-      "url": "https://www.google.com/",
+      "url": "https://github.com/clmntgbr/energy_back",
       "roles": [
         "Full stack developper"
       ],
