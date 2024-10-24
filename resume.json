@@ -168,12 +168,15 @@
       "keywords": [
         "PHP",
         "Symfony",
+        "Node",
+        "Nuxt",
+        "React",
+        "AdonisJS",
         "html",
         "css",
         "ApiRest",
         "SQL",
-        "JS",
-        "NodeJs"
+        "JS"
       ]
     },
     {
@@ -215,7 +218,9 @@
         "Russia",
         "Mexico",
         "Egypt",
-        "USA"
+        "USA",
+        "Iceland",
+        "Peru"
       ]
     },
     {
@@ -255,16 +260,16 @@
   ],
   "projects": [
     {
-      "name": "Energy Price",
-      "description": "Real time gas prices of every station in France, filtering by gas types, services, lowest, highest and an historic of prices since 2015. Based on Flutter for the app part and symfony for the backend part.",
+      "name": "SocialPulse",
+      "description": "One place for all Social Networks !",
       "keywords": [
         "PHP",
         "Symfony",
-        "Flutter",
-        "React"
+        "ApiPlatform",
+        "Nuxt"
       ],
-      "startDate": "2022-01-01",
-      "url": "https://github.com/clmntgbr/energy_back",
+      "startDate": "2023-01-01",
+      "url": "https://github.com/clmntgbr/social-pulse-api",
       "roles": [
         "Full stack developper"
       ],
