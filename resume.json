@@ -258,25 +258,6 @@
       ]
     }
   ],
-  "projects": [
-    {
-      "name": "SocialPulse",
-      "description": "One place for all Social Networks !",
-      "keywords": [
-        "PHP",
-        "Symfony",
-        "ApiPlatform",
-        "Nuxt"
-      ],
-      "startDate": "2023-01-01",
-      "url": "https://github.com/clmntgbr/social-pulse-api",
-      "roles": [
-        "Full stack developper"
-      ],
-      "entity": "Entity",
-      "type": "personal"
-    }
-  ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
