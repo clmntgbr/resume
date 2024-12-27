@@ -7,4 +7,7 @@ export default defineConfig({
   base: "resume",
   trailingSlash: "always",
   integrations: [tailwind()],
+  devToolbar: {
+    enabled: false,
+  },
 });
