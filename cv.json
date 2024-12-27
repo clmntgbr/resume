@@ -1,107 +1,87 @@
 {
   "basics": {
-    "name": "Clément Goubier",
-    "label": "Back-end Developer",
-    "email": "clement.goubier@gmail.com",
-    "phone": "+33 6 79 03 88",
-    "url": "",
-    "image": "/me.jpeg",
-    "summary": "Back-end Developer with extensive experience in developing and maintaining scalable applications for various industries, utilizing PHP, Symfony, React and other modern technologies.",
-    "theme": "blue",
+    "name": "John Doe",
+    "label": "Junior Full Stack Developer",
+    "image": "/me_avatar.jpg",
+    "email": "john.doe@example.com",
+    "phone": "+1 555-555-5555",
+    "url": "https://johndoe.dev",
+    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "94550",
-      "city": "Chevilly-Larue",
-      "countryCode": "FR",
-      "region": "Île-de-France"
+      "postalCode": "10001",
+      "city": "Auckland",
+      "countryCode": "NZ",
+      "region": "New Zealand"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "clementgoubier",
-        "url": "https://linkedin.com/in/clementgoubier"
+        "username": "john-doe",
+        "url": "https://linkedin.com/in/john-doe"
+      },
+      {
+        "network": "X",
+        "username": "john-doe",
+        "url": "https://x.com/john-doe"
       },
       {
         "network": "GitHub",
-        "username": "clmntgbr",
-        "url": "https://github.com/clmntgbr"
+        "username": "johndoe",
+        "url": "https://github.com/johndoe"
       }
     ]
   },
   "work": [
     {
-      "name": "Display Interactive",
-      "location": "Montrouge, Île-de-France",
-      "description": "Empower airlines to embrace innovative in-flight digital strategies with UGO, an IFE engagement solution !",
-      "position": "Back end developer",
-      "url": "https://www.display.aero",
-      "startDate": "2022-03-07",
-      "summary": "Develop and maintain websites, back-office systems, and onboard solutions for airline clients. Collaborated with international teams to ensure high-quality project delivery, applied agile principles, and implemented processes to maintain consistent code quality.",
+      "name": "Tech Startup",
+      "position": "Junior Web Developer",
+      "location_type": "On site",
+      "location": "Auckland, New Zealand",
+      "url": "https://techstartup.com",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "highlights": ["Improved website performance by optimizing code"],
       "responsibilities": [
-        "Developed and maintained websites and back-office systems tailored for airline clients.",
-        "Installed and configured onboard software solutions for aviation clients.",
-        "Conducted on-site testing and wrote detailed specifications with clients across multiple regions.",
-        "Contributed to the evolution and maintenance of existing projects.",
-        "Implemented processes to ensure consistent code quality.",
-        "Organized sprints and followed agile principles to manage project development effectively."
+        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
+        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
+        "Participated in code reviews and contributed to improving coding standards within the team."
       ],
       "achievements": [
-        "Successfully deployed onboard solutions for multiple airline clients.",
-        "Established a robust framework for maintaining consistent code quality across projects.",
-        "Improved client satisfaction by delivering tailored solutions and conducting thorough on-site testing and requirement gathering."
+        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
       ],
-      "skills": [
-        "React",
-        "PHP 8",
-        "Symfony 7",
-        "AWS",
-        "API REST",
-        "Ansible",
-        "Docker",
-        "Ansible",
-        "PHPUnit",
-        "Behat",
-        "Gitlab",
-        "MySQL",
-        "MariaDB",
-        "Kubernetes",
-        "RabbitMQ"
-      ]
+      "skills": ["React", "Tailwind", "GitHub"]
     },
     {
-      "name": "Webcentric",
-      "location": "Paris, Île-de-France",
-      "description": "A digital agency in Paris building solutions for companies !",
-      "position": "Back end developer",
-      "url": "https://www.wcentric.com",
-      "startDate": "2021-10-01",
-      "endDate": "2022-03-04",
-      "summary": "Developed and maintained high-load websites, back-office systems, and mobile applications for B2B clients across diverse industries such as manufacturing and events. Delivered projects within 3 to 6 months using modern web technologies and agile methodologies to ensure high-quality outcomes.",
+      "name": "Innovative Solutions",
+      "position": "Junior Software Developer",
+      "location_type": "Hybrid",
+      "location": "Wellington, New Zealand",
+      "url": "https://innovativesolutions.com",
+      "startDate": "2022-06-01",
+      "endDate": "2023-06-01",
+      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "highlights": ["Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"],
       "responsibilities": [
-        "Developed websites, back-office systems, and mobile applications for B2B clients.",
-        "Tested and deployed code to ensure functionality and reliability.",
-        "Contributed to the maintenance and evolution of existing projects.",
-        "Implemented processes to maintain consistent code quality.",
-        "Organized sprints and applied agile principles to improve project delivery."
+        "Developed and maintained backend services using Python and Django.",
+        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
+        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
       ],
-      "achievements": [
-        "Successfully delivered high-load web applications for clients in various industries.",
-        "Streamlined development processes to ensure consistent code quality.",
-        "Improved project delivery timelines by adopting agile methodologies."
-      ],
-      "skills": [
-        "PHP 8",
-        "Symfony 6",
-        "MySQL",
-        "MariaDB",
-        "Docker",
-        "Kubernetes",
-        "API REST",
-        "RabbitMQ",
-        "Git",
-        "Gitlab",
-        "Microservices Architecture"
-      ]
+      "achievements": ["Successfully implemented a feature that enhanced user authentication, improving security measures."],
+      "skills": ["Python", "Django", "SQL", "Git"]
+    },
+    {
+      "name": "Web Agency",
+      "position": "Intern Web Developer",
+      "location_type": "Remote",
+      "location": "Sydney, Australia",
+      "startDate": "2022-06-01",
+      "endDate": "2022-12-01",
+      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "highlights": ["Completed several client projects successfully"],
+      "skills": ["HTML", "CSS"]
     }
   ],
   "volunteer": [
