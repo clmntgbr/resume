@@ -1,19 +1,19 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "name": "Clément Goubier",
+    "label": "Back-end Developer",
+    "email": "clement.goubier@gmail.com",
+    "phone": "+33 6 79 03 88",
+    "url": "",
+    "image": "/me.jpeg",
+    "summary": "Back-end Developer with extensive experience in developing and maintaining scalable applications for various industries, utilizing PHP, Symfony, React and other modern technologies.",
+    "theme": "blue",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "94550",
+      "city": "Chevilly-Larue",
+      "countryCode": "FR",
+      "region": "Île-de-France"
     },
     "profiles": [
       {
