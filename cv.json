@@ -5,7 +5,7 @@
     "email": "clement.goubier@gmail.com",
     "phone": "+33 6 79 03 88",
     "url": "",
-    "image": "/me.jpeg",
+    "image": "/resume/me.jpeg",
     "summary": "Back-end Developer with extensive experience in developing and maintaining scalable applications for various industries, utilizing PHP, Symfony, React and other modern technologies.",
     "theme": "blue",
     "location": {
@@ -18,18 +18,13 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "clementgoubier",
+        "url": "https://linkedin.com/in/clementgoubier"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "clmntgbr",
+        "url": "https://github.com/clmntgbr"
       }
     ]
   },
