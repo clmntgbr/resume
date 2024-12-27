@@ -224,57 +224,85 @@
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": ["CS101 - Introduction to Computer Science", "CS102 - Data Structures"]
+      "institution": "ESGI",
+      "url": "https://www.esgi.fr/",
+      "area": "Web Development and E-Business",
+      "studyType": "Master's Degree",
+      "startDate": "2014",
+      "endDate": "2016",
+      "score": "The Web Engineering and e-Business specialization aims to meet industry demand for dual-skilled professionals capable of developing projects and creating value through technology. It provides expertise in three major areas: innovative internet technologies and integration, project management (interfacing with specialized service providers, working in interdisciplinary teams), and e-Commerce operations (marketing strategy, communications, traffic monitoring, SEO, database management, technical maintenance, and navigation usability).",
+      "courses": ["dqsdqsd"]
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": ["SE201 - Advanced Software Development", "SE202 - Software Architecture and Design"]
+      "institution": "OIIO Formation",
+      "url": "https://www.linkedin.com/company/oiio-formation",
+      "area": "Computer Science and Web Development",
+      "studyType": "European Higher Education Diploma (DEES)",
+      "startDate": "2013",
+      "endDate": "2014",
+      "score": "The European Higher Education Diploma in Webmaster (DEESWEB) is a comprehensive training program that prepares students for Webmaster and Web Designer roles through the study of digital environments and web development techniques, from project management to web development.",
+      "courses": []
     },
     {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": ["IT101 - Networking Fundamentals", "IT102 - Database Management Systems"]
+      "institution": "Lycée Louis Jouvet",
+      "url": "https://lyc-louisjouvet-taverny.ac-versailles.fr",
+      "area": "Computer Science and Industrial Networks",
+      "studyType": "Advanced Technical Diploma (BTS)",
+      "startDate": "2010",
+      "endDate": "2012",
+      "score": "The IRIS Computer Science BTS trains professionals to create and manage complex computer applications and systems for industrial equipment production and technical services. The program covers everything from hardware and software system design to installation, maintenance, and monitoring of IT systems. The IT work is characterized by a close relationship between hardware and software, interaction with industrial and/or technical environments (robotics, Computer-Aided Design CAD, as well as telecommunications and networks).",
+      "courses": []
     }
   ],
-  "certificates": [
-    {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
-    }
-  ],
+  "certificates": [],
   "skills": [
     {
-      "name": "Figma",
+      "name": "PHP",
       "level": "Expert",
       "keywords": ["Design", "UI"]
     },
     {
-      "name": "Gitlab",
+      "name": "Symfony",
+      "level": "Expert",
+      "keywords": ["Design", "UI"]
+    },
+    {
+      "name": "AdonisJS",
+      "level": "Expert",
+      "keywords": ["Design", "UI"]
+    },
+    {
+      "name": "TypeScript",
       "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code"]
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Beginner",
+      "keywords": ["Web Development", "Frontend", "React Framework", "SSR", "Static Generation"]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "HTML",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "RabbitMQ",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "Api Rest",
       "level": "Intermediate",
       "keywords": ["Web Development", "Frontend"]
     },
@@ -294,11 +322,6 @@
       "keywords": ["Web Development", "Frontend", "CSS Framework", "Responsive Design"]
     },
     {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "Backend", "JavaScript Superset"]
-    },
-    {
       "name": "Node",
       "level": "Intermediate",
       "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
@@ -314,73 +337,74 @@
       "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
+      "name": "Gitlab",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
       "name": "GitHub",
       "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": ["Web Development", "Frontend", "React Framework", "SSR", "Static Generation"]
-    },
-    {
-      "name": "React",
+      "name": "Kubernetes",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "Ansible",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "French",
       "fluency": "Native speaker"
     },
     {
-      "language": "Spanish",
+      "language": "English",
       "fluency": "Intermediate"
     }
   ],
-  "interests": [
-    {
-      "name": "Technology",
-      "keywords": ["AI", "Blockchain"]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Smith",
-      "reference": "Reference…"
-    }
-  ],
+  "interests": [],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": ["Built with React and Tailwind CSS", "Includes a blog and contact form"],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
+      "name": "Personal Resume",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": ["Built with JavaScript and OpenWeatherMap API", "Responsive design"],
-      "url": "https://weatherapp.com"
+      "description": "A personal resume website to showcase my projects and skills.",
+      "highlights": ["Built with AstroJS and Tailwind CSS", "Includes a blog and contact form"],
+      "url": "https://clmntgbr.github.io/resume",
+      "github": "https://github.com/clmntgbr/resume"
     },
     {
-      "name": "Task Manager",
+      "name": "Social Publish Api",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": ["Built with Node.js and MongoDB", "User authentication and CRUD operations"],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "description": "A web api that provides social networks publishing skills.",
+      "highlights": ["Built with PHP and Symfony", "Api Rest"],
+      "url": "https://github.com/clmntgbr/social-pulse-api",
+      "github": "https://github.com/clmntgbr/social-pulse-api"
     },
     {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": ["Product management and shopping cart functionality", "Secure payment integration"],
-      "url": "https://ecommerce.com"
+      "name": "Social Publish App",
+      "isActive": true,
+      "description": "A web app that provides social networks publishing skills.",
+      "highlights": ["Built with NextJS", "React"],
+      "url": "https://github.com/clmntgbr/social-pulse-web",
+      "github": "https://github.com/clmntgbr/social-pulse-web"
+    },
+    {
+      "name": "Symfony Docker",
+      "isActive": true,
+      "description": "A symfony docker template to build fast api.",
+      "highlights": ["Built with Symfony 7.2", "Docker", "Including RabbitMQ and MySQL all under docker"],
+      "url": "https://github.com/clmntgbr/symfony-docker",
+      "github": "https://github.com/clmntgbr/symfony-docker"
     }
   ]
 }
