@@ -30,24 +30,46 @@
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": ["Improved website performance by optimizing code"],
+      "name": "Display Interactive",
+      "location": "Montrouge, Île-de-France",
+      "description": "Empower airlines to embrace innovative in-flight digital strategies with UGO, an IFE engagement solution !",
+      "position": "Back end developer",
+      "url": "https://www.display.aero",
+      "startDate": "2022-03-07",
+      "summary": "Develop and maintain websites, back-office systems, and onboard solutions for airline clients. Collaborated with international teams to ensure high-quality project delivery, applied agile principles, and implemented processes to maintain consistent code quality.",
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Developed and maintained websites and back-office systems tailored for airline clients.",
+        "Installed and configured onboard software solutions for aviation clients.",
+        "Conducted on-site testing and wrote detailed specifications with clients across multiple regions.",
+        "Contributed to the evolution and maintenance of existing projects.",
+        "Implemented processes to ensure consistent code quality.",
+        "Organized sprints and followed agile principles to manage project development effectively."
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Successfully deployed onboard solutions for multiple airline clients.",
+        "Established a robust framework for maintaining consistent code quality across projects.",
+        "Improved client satisfaction by delivering tailored solutions and conducting thorough on-site testing and requirement gathering."
       ],
-      "skills": ["React", "Tailwind", "GitHub"]
+      "skills": [
+        "React",
+        "PHP 8",
+        "Symfony 7",
+        "AWS",
+        "API REST",
+        "Ansible",
+        "Docker",
+        "Ansible",
+        "PHPUnit",
+        "Behat",
+        "Gitlab",
+        "MySQL",
+        "MariaDB",
+        "Kubernetes",
+        "RabbitMQ"
+      ],
+      "location_type": "On site",
+      "endDate": null,
+      "highlights": []
     },
     {
       "name": "Innovative Solutions",
