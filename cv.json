@@ -33,7 +33,7 @@
       "name": "Display Interactive",
       "location": "Montrouge, Île-de-France",
       "description": "Empower airlines to embrace innovative in-flight digital strategies with UGO, an IFE engagement solution !",
-      "position": "Back end developer",
+      "position": "Full stack developer",
       "url": "https://www.display.aero",
       "startDate": "2022-03-07",
       "summary": "Develop and maintain websites, back-office systems, and onboard solutions for airline clients. Collaborated with international teams to ensure high-quality project delivery, applied agile principles, and implemented processes to maintain consistent code quality.",
@@ -67,49 +67,159 @@
         "Kubernetes",
         "RabbitMQ"
       ],
-      "location_type": "On site",
+      "location_type": "Hybrid",
       "endDate": null,
       "highlights": []
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": ["Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"],
+      "name": "Webcentric",
+      "location": "Paris, Île-de-France",
+      "description": "A digital agency in Paris building solutions for companies !",
+      "position": "Full stack developer",
+      "url": "https://www.wcentric.com",
+      "startDate": "2021-10-01",
+      "endDate": "2022-03-04",
+      "summary": "Developed and maintained high-load websites, back-office systems, and mobile applications for B2B clients across diverse industries such as manufacturing and events. Delivered projects within 3 to 6 months using modern web technologies and agile methodologies to ensure high-quality outcomes.",
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Developed websites, back-office systems, and mobile applications for B2B clients.",
+        "Tested and deployed code to ensure functionality and reliability.",
+        "Contributed to the maintenance and evolution of existing projects.",
+        "Implemented processes to maintain consistent code quality.",
+        "Organized sprints and applied agile principles to improve project delivery."
       ],
-      "achievements": ["Successfully implemented a feature that enhanced user authentication, improving security measures."],
-      "skills": ["Python", "Django", "SQL", "Git"]
+      "achievements": [
+        "Successfully delivered high-load web applications for clients in various industries.",
+        "Streamlined development processes to ensure consistent code quality.",
+        "Improved project delivery timelines by adopting agile methodologies."
+      ],
+      "skills": [
+        "PHP 7  ",
+        "Symfony 6",
+        "React",
+        "MySQL",
+        "MariaDB",
+        "Docker",
+        "Kubernetes",
+        "API REST",
+        "RabbitMQ",
+        "Git",
+        "Gitlab",
+        "Microservices Architecture"
+      ],
+      "location_type": "Hybrid",
+      "highlights": []
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": ["Completed several client projects successfully"],
-      "skills": ["HTML", "CSS"]
-    }
-  ],
-  "volunteer": [
+      "name": "Castelis",
+      "location": "Paris, Île-de-France",
+      "location_type": "Hybrid",
+      "description": "A company that designs, develops, deploys, and operates innovative and custom digital solutions for clients from all sectors: industrial, tertiary, etc. With a strong team of 85 employees including study and development engineers, cloud engineers, data scientists, project managers, architects, and consultants.",
+      "position": "Back end developer",
+      "url": "https://www.castelis.com/",
+      "startDate": "2020-02-01",
+      "endDate": "2021-09-30",
+      "summary": "Contributed to the development and deployment of custom digital solutions for diverse industry sectors as part of an 85-person technical team. Worked on backend systems using PHP 5.4 and related technologies while collaborating with cloud engineers, data scientists, and architects to deliver innovative solutions.",
+      "responsibilities": [
+        "Developed and maintained custom digital solutions for industrial and tertiary sector clients",
+        "Implemented backend functionalities using PHP 5.4 and MySQL databases",
+        "Built and integrated REST APIs for various client applications",
+        "Managed message queuing systems using RabbitMQ",
+        "Collaborated with cross-functional teams including cloud engineers and data scientists",
+        "Utilized Docker for containerization and deployment",
+        "Maintained version control and CI/CD pipelines using Git and GitLab"
+      ],
+      "achievements": [
+        "Successfully delivered custom digital solutions for multiple industry sectors",
+        "Contributed to the design and implementation of scalable backend architectures",
+        "Improved system integration through effective API development and message queue implementation",
+        "Participated in modernizing deployment processes using containerization technologies"
+      ],
+      "skills": ["PHP 7", "MySQL", "Docker", "API REST", "RabbitMQ", "Git", "Gitlab"],
+      "highlights": []
+    },
     {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "name": "Mention",
+      "location": "Paris, Île-de-France",
+      "location_type": "Hybrid",
+      "description": "A social media and web monitoring platform that helps companies track their online presence, brand mentions, competitors, and industry trends across web and social networks. Used by over 750,000 professionals in 125+ countries, including major companies like Spotify, Airbnb, MIT, Microsoft, Lamborghini and Etsy.",
+      "position": "Back end developer",
+      "url": "https://mention.com",
+      "startDate": "2020-02-01",
+      "endDate": "2019-04-01",
+      "summary": "Contributed to the development of a high-scale social media monitoring platform used by 750,000+ professionals worldwide. Worked on backend systems using PHP 7 and Symfony framework to process and analyze real-time web and social media data, serving clients ranging from startups to enterprise companies like Microsoft and Spotify.",
+      "responsibilities": [
+        "Developed and maintained real-time monitoring systems for web and social media data",
+        "Built backend services using PHP 7 and Symfony framework",
+        "Implemented and maintained both REST and GraphQL APIs",
+        "Managed high-volume data processing using RabbitMQ message queues",
+        "Worked with MySQL databases to handle large-scale data storage and retrieval",
+        "Utilized Docker for application containerization and deployment",
+        "Contributed to the platform's scalability to support 750,000+ users across 125+ countries"
+      ],
+      "achievements": [
+        "Successfully scaled backend systems to handle monitoring requests from 750,000+ global users",
+        "Implemented efficient data processing pipelines for real-time web and social media monitoring",
+        "Contributed to the development of both REST and GraphQL APIs to support various client integrations",
+        "Helped maintain high availability and performance for enterprise-level clients including Microsoft, Airbnb, and Spotify"
+      ],
+      "skills": ["PHP 7", "Symfony", "MySQL", "Docker", "API REST", "GraphQL", "RabbitMQ"],
+      "highlights": []
+    },
+    {
+      "name": "Youmiam",
+      "location": "Paris, Île-de-France",
+      "location_type": "Hybrid",
+      "description": "A food-tech company partnering with major retailers like Franprix, Auchan, and Frichti.",
+      "position": "Back end Developer",
+      "url": "https://www.dubruitdanslacuisine.fr/pages/le-blog-du-bruit-dans-la-cuisine",
+      "startDate": "2018-02-01",
+      "endDate": "2019-02-01",
+      "summary": "Managed and developed REST API services for iOS and Android applications while collaborating with major retail partners like Franprix, Auchan, and Frichti. Focused on performance optimization and code quality while contributing to both backend and frontend development tasks.",
+      "responsibilities": [
+        "Managed REST API development and maintenance for iOS and Android mobile applications",
+        "Developed and integrated key features in partnership with major retailers",
+        "Identified and implemented performance optimizations to enhance service speed and reliability",
+        "Ensured high code quality through comprehensive testing",
+        "Contributed to frontend development tasks",
+        "Created technical documentation for feature implementations",
+        "Collaborated with mobile development team to ensure seamless API integration"
+      ],
+      "achievements": [
+        "Successfully integrated key features for major retail partners including Franprix, Auchan, and Frichti",
+        "Improved API performance and reliability through targeted optimizations",
+        "Established comprehensive technical documentation processes for feature implementation",
+        "Maintained high code quality standards through testing and best practices"
+      ],
+      "skills": ["PHP 7", "Symfony", "MySQL", "API REST"],
+      "highlights": []
+    },
+    {
+      "name": "TWIL - The Wine I Love",
+      "location": "Saint-Ouen, Île-de-France",
+      "description": "An e-commerce wine platform integrating multiple third-party services and systems.",
+      "position": "Back end Developer",
+      "url": "https://www.twil.fr/",
+      "startDate": "2016-09",
+      "endDate": "2018-01-31",
+      "summary": "Developed and maintained multiple systems including a Symfony2 back office, Magento e-commerce platform, and mobile app REST API. Managed integrations with various third-party services while ensuring high code quality and reliable deployments.",
+      "responsibilities": [
+        "Developed new features for Symfony2 back office, Magento e-commerce site, and mobile app REST API",
+        "Integrated third-party systems including Mirakl, UPELA, SMoney, and UPS using REST web services",
+        "Managed server infrastructure and production deployments",
+        "Enhanced system reliability through unit testing and code quality improvements",
+        "Contributed to frontend development tasks",
+        "Maintained and optimized e-commerce platform performance",
+        "Coordinated between multiple systems to ensure seamless operation"
+      ],
+      "achievements": [
+        "Successfully integrated multiple third-party services (Mirakl, UPELA, SMoney, UPS) into the platform",
+        "Improved system reliability through enhanced unit testing coverage",
+        "Streamlined deployment processes and server management procedures",
+        "Maintained high-performance e-commerce operations across multiple platforms"
+      ],
+      "skills": ["PHP 7", "Symfony", "MySQL", "API REST", "Magento", "API SOAP"],
+      "location_type": "Full-time",
+      "highlights": []
     }
   ],
   "education": [
