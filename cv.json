@@ -383,6 +383,22 @@
       "github": "https://github.com/clmntgbr/resume"
     },
     {
+      "name": "Symfony Docker FrankenPHP",
+      "isActive": true,
+      "description": "A symfony docker template to build fast api under FrankenPHP.",
+      "highlights": ["Built with Symfony 7.2", "Docker", "FrankenPHP", "Including RabbitMQ and PostgreSQL all under docker"],
+      "url": "https://github.com/clmntgbr/symfony-frankenphp",
+      "github": "https://github.com/clmntgbr/symfony-frankenphp"
+    },
+    {
+      "name": "Symfony Docker",
+      "isActive": true,
+      "description": "A symfony docker template to build fast api.",
+      "highlights": ["Built with Symfony 7.2", "Docker", "Including RabbitMQ and MySQL all under docker"],
+      "url": "https://github.com/clmntgbr/symfony-docker",
+      "github": "https://github.com/clmntgbr/symfony-docker"
+    },
+    {
       "name": "Social Publish Api",
       "isActive": true,
       "description": "A web api that provides social networks publishing skills.",
@@ -397,14 +413,6 @@
       "highlights": ["Built with NextJS", "React"],
       "url": "https://github.com/clmntgbr/social-pulse-web",
       "github": "https://github.com/clmntgbr/social-pulse-web"
-    },
-    {
-      "name": "Symfony Docker",
-      "isActive": true,
-      "description": "A symfony docker template to build fast api.",
-      "highlights": ["Built with Symfony 7.2", "Docker", "Including RabbitMQ and MySQL all under docker"],
-      "url": "https://github.com/clmntgbr/symfony-docker",
-      "github": "https://github.com/clmntgbr/symfony-docker"
     }
   ]
 }
