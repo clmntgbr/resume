@@ -138,34 +138,6 @@
       "highlights": []
     },
     {
-      "name": "Mention",
-      "location": "Paris, Île-de-France",
-      "location_type": "Hybrid",
-      "description": "A social media and web monitoring platform that helps companies track their online presence, brand mentions, competitors, and industry trends across web and social networks. Used by over 750,000 professionals in 125+ countries, including major companies like Spotify, Airbnb, MIT, Microsoft, Lamborghini and Etsy.",
-      "position": "Back end developer",
-      "url": "https://mention.com",
-      "startDate": "2020-02-01",
-      "endDate": "2019-04-01",
-      "summary": "Contributed to the development of a high-scale social media monitoring platform used by 750,000+ professionals worldwide. Worked on backend systems using PHP 7 and Symfony framework to process and analyze real-time web and social media data, serving clients ranging from startups to enterprise companies like Microsoft and Spotify.",
-      "responsibilities": [
-        "Developed and maintained real-time monitoring systems for web and social media data",
-        "Built backend services using PHP 7 and Symfony framework",
-        "Implemented and maintained both REST and GraphQL APIs",
-        "Managed high-volume data processing using RabbitMQ message queues",
-        "Worked with MySQL databases to handle large-scale data storage and retrieval",
-        "Utilized Docker for application containerization and deployment",
-        "Contributed to the platform's scalability to support 750,000+ users across 125+ countries"
-      ],
-      "achievements": [
-        "Successfully scaled backend systems to handle monitoring requests from 750,000+ global users",
-        "Implemented efficient data processing pipelines for real-time web and social media monitoring",
-        "Contributed to the development of both REST and GraphQL APIs to support various client integrations",
-        "Helped maintain high availability and performance for enterprise-level clients including Microsoft, Airbnb, and Spotify"
-      ],
-      "skills": ["PHP 7", "Symfony", "MySQL", "Docker", "API REST", "GraphQL", "RabbitMQ"],
-      "highlights": []
-    },
-    {
       "name": "Youmiam",
       "location": "Paris, Île-de-France",
       "location_type": "Hybrid",
@@ -173,7 +145,7 @@
       "position": "Back end Developer",
       "url": "https://www.dubruitdanslacuisine.fr/pages/le-blog-du-bruit-dans-la-cuisine",
       "startDate": "2018-02-01",
-      "endDate": "2019-02-01",
+      "endDate": "2020-02-01",
       "summary": "Managed and developed REST API services for iOS and Android applications while collaborating with major retail partners like Franprix, Auchan, and Frichti. Focused on performance optimization and code quality while contributing to both backend and frontend development tasks.",
       "responsibilities": [
         "Managed REST API development and maintenance for iOS and Android mobile applications",
