@@ -6,7 +6,7 @@
     "phone": "+33 6 79 03 88",
     "url": "",
     "image": "/resume/me.jpeg",
-    "summary": "Back-end Developer with extensive experience in developing and maintaining scalable applications for various industries, utilizing PHP, Symfony, React and other modern technologies.",
+    "summary": "Back-end Developer with extensive experience in developing and maintaining scalable applications for various industries, utilizing Go, PHP, Symfony, React and other modern technologies.",
     "theme": "blue",
     "location": {
       "address": "",
@@ -55,6 +55,7 @@
         "PHP 8",
         "Symfony 7",
         "AWS",
+        "Go",
         "API REST",
         "Ansible",
         "Docker",
@@ -229,6 +230,11 @@
   "certificates": [],
   "skills": [
     {
+      "name": "Go",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Backend", "Go", "Server"]
+    },
+    {
       "name": "PHP",
       "level": "Expert",
       "keywords": ["Design", "UI"]
@@ -347,44 +353,52 @@
   "interests": [],
   "projects": [
     {
-      "name": "Personal Resume",
+      "name": "Workflow API",
       "isActive": true,
-      "description": "A personal resume website to showcase my projects and skills.",
-      "highlights": ["Built with AstroJS and Tailwind CSS", "Includes a blog and contact form"],
-      "url": "https://clmntgbr.github.io/resume",
-      "github": "https://github.com/clmntgbr/resume"
+      "description": "Go backend for a visual HTTP workflow builder: teams compose endpoints into graphs of steps, run them on demand or on a schedule, and collaborate in realtime.",
+      "highlights": ["Go, Fiber, PostgreSQL", "RabbitMQ event-driven orchestration", "Clerk auth, Stripe billing, Centrifugo realtime"],
+      "url": "https://github.com/clmntgbr/workflow-api",
+      "github": "https://github.com/clmntgbr/workflow-api"
     },
     {
-      "name": "Symfony Docker FrankenPHP",
+      "name": "Workflow App",
       "isActive": true,
-      "description": "A symfony docker template to build fast api under FrankenPHP.",
-      "highlights": ["Built with Symfony 7.2", "Docker", "FrankenPHP", "Including RabbitMQ and PostgreSQL all under docker"],
-      "url": "https://github.com/clmntgbr/symfony-frankenphp",
-      "github": "https://github.com/clmntgbr/symfony-frankenphp"
+      "description": "Next.js frontend for the visual HTTP workflow builder, with a realtime canvas, Clerk authentication, and a protected proxy to the Go API.",
+      "highlights": ["Next.js, React, TypeScript", "XYFlow canvas", "Clerk, Tailwind CSS, shadcn/ui"],
+      "url": "https://github.com/clmntgbr/workflow-app",
+      "github": "https://github.com/clmntgbr/workflow-app"
     },
     {
-      "name": "Symfony Docker",
+      "name": "IsAIorNot API",
       "isActive": true,
-      "description": "A symfony docker template to build fast api.",
-      "highlights": ["Built with Symfony 7.2", "Docker", "Including RabbitMQ and MySQL all under docker"],
-      "url": "https://github.com/clmntgbr/symfony-docker",
-      "github": "https://github.com/clmntgbr/symfony-docker"
+      "description": "Go API to detect whether content is AI-generated, with confidence scoring and a scalable event-driven workflow.",
+      "highlights": ["Go, Fiber, PostgreSQL", "CQRS and RabbitMQ outbox", "Clerk JWT auth"],
+      "url": "https://github.com/clmntgbr/isaiornot-api",
+      "github": "https://github.com/clmntgbr/isaiornot-api"
     },
     {
-      "name": "Social Publish Api",
+      "name": "IsAIorNot App",
       "isActive": true,
-      "description": "A web api that provides social networks publishing skills.",
-      "highlights": ["Built with PHP and Symfony", "Api Rest"],
-      "url": "https://github.com/clmntgbr/social-pulse-api",
-      "github": "https://github.com/clmntgbr/social-pulse-api"
+      "description": "Next.js app for detecting AI-generated images and videos via the Go API, with realtime scan updates, confidence scoring, and subscription-based usage.",
+      "highlights": ["Next.js, React, TypeScript", "Clerk, Stripe, Centrifugo", "Tailwind CSS, shadcn/ui"],
+      "url": "https://isaiornot-app-henna.vercel.app",
+      "github": "https://github.com/clmntgbr/isaiornot-app"
     },
     {
-      "name": "Social Publish App",
+      "name": "Go API Template",
       "isActive": true,
-      "description": "A web app that provides social networks publishing skills.",
-      "highlights": ["Built with NextJS", "React"],
-      "url": "https://github.com/clmntgbr/social-pulse-web",
-      "github": "https://github.com/clmntgbr/social-pulse-web"
+      "description": "Go API template with Fiber, PostgreSQL, and Clerk authentication, including JWT protection, Clerk webhook sync, and Docker/Makefile workflows for fast local development.",
+      "highlights": ["Go, Fiber, PostgreSQL", "Clerk JWT and webhooks", "Docker and Makefile developer stack"],
+      "url": "https://github.com/clmntgbr/go-api",
+      "github": "https://github.com/clmntgbr/go-api"
+    },
+    {
+      "name": "Next.js App Template",
+      "isActive": true,
+      "description": "Next.js app template with Clerk authentication and protected API proxy routes, including secure JWT forwarding to a Go backend.",
+      "highlights": ["Next.js, React, TypeScript", "Clerk auth guards", "Protected proxy to Go API"],
+      "url": "https://github.com/clmntgbr/next-app",
+      "github": "https://github.com/clmntgbr/next-app"
     }
   ]
 }
