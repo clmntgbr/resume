@@ -3,10 +3,10 @@
     "name": "Clément Goubier",
     "label": "Back-end Developer",
     "email": "clement.goubier@gmail.com",
-    "phone": "+33 6 79 03 88",
-    "url": "",
+    "phone": "+33 06 79 03 88 41",
+    "url": "https://github.com/clmntgbr",
     "image": "/resume/me.jpeg",
-    "summary": "Back-end Developer with extensive experience in developing and maintaining scalable applications for various industries, utilizing Go, PHP, Symfony, React and other modern technologies.",
+    "summary": "Back-end developer focused on Go and PHP, building scalable APIs, event-driven systems, and web applications. Experienced with Symfony, React, Next.js, Docker, and Kubernetes across aviation, e-commerce, and food-tech.",
     "theme": "blue",
     "location": {
       "address": "",
@@ -32,41 +32,40 @@
     {
       "name": "Display Interactive",
       "location": "Montrouge, Île-de-France",
-      "description": "Empower airlines to embrace innovative in-flight digital strategies with UGO, an IFE engagement solution !",
-      "position": "Full stack developer",
+      "description": "IFE engagement platform helping airlines run in-flight digital experiences with UGO.",
+      "position": "Full-stack Developer",
       "url": "https://www.display.aero",
       "startDate": "2022-03-07",
-      "summary": "Develop and maintain websites, back-office systems, and onboard solutions for airline clients. Collaborated with international teams to ensure high-quality project delivery, applied agile principles, and implemented processes to maintain consistent code quality.",
+      "summary": "Develop and maintain websites, back-office systems, and onboard solutions for airline clients. Collaborate with international teams, follow agile delivery, and keep a consistent quality bar across PHP 8.5, Symfony 8, Go, and React.",
       "responsibilities": [
-        "Developed and maintained websites and back-office systems tailored for airline clients.",
-        "Installed and configured onboard software solutions for aviation clients.",
-        "Conducted on-site testing and wrote detailed specifications with clients across multiple regions.",
-        "Contributed to the evolution and maintenance of existing projects.",
-        "Implemented processes to ensure consistent code quality.",
-        "Organized sprints and followed agile principles to manage project development effectively."
+        "Developed and maintained websites and back-office systems for airline clients.",
+        "Installed and configured onboard software for aviation customers.",
+        "Ran on-site testing and wrote specifications with clients across multiple regions.",
+        "Maintained and evolved existing products.",
+        "Put processes in place to keep code quality consistent.",
+        "Organized sprints and followed agile practices."
       ],
       "achievements": [
-        "Successfully deployed onboard solutions for multiple airline clients.",
-        "Established a robust framework for maintaining consistent code quality across projects.",
-        "Improved client satisfaction by delivering tailored solutions and conducting thorough on-site testing and requirement gathering."
+        "Deployed onboard solutions for multiple airline clients.",
+        "Set up a shared framework for code quality across projects.",
+        "Improved delivery by pairing on-site testing with clearer requirements."
       ],
       "skills": [
-        "React",
-        "PHP 8",
-        "Symfony 7",
-        "AWS",
         "Go",
-        "API REST",
-        "Ansible",
+        "PHP 8.5",
+        "Symfony 8",
+        "React",
+        "REST API",
+        "AWS",
         "Docker",
+        "Kubernetes",
         "Ansible",
-        "PHPUnit",
-        "Behat",
-        "Gitlab",
+        "RabbitMQ",
         "MySQL",
         "MariaDB",
-        "Kubernetes",
-        "RabbitMQ"
+        "PHPUnit",
+        "Behat",
+        "Gitlab"
       ],
       "location_type": "Hybrid",
       "endDate": null,
@@ -75,38 +74,25 @@
     {
       "name": "Webcentric",
       "location": "Paris, Île-de-France",
-      "description": "A digital agency in Paris building solutions for companies !",
-      "position": "Full stack developer",
+      "description": "Paris digital agency building products for B2B companies.",
+      "position": "Full-stack Developer",
       "url": "https://www.wcentric.com",
       "startDate": "2021-10-01",
       "endDate": "2022-03-04",
-      "summary": "Developed and maintained high-load websites, back-office systems, and mobile applications for B2B clients across diverse industries such as manufacturing and events. Delivered projects within 3 to 6 months using modern web technologies and agile methodologies to ensure high-quality outcomes.",
+      "summary": "Built and maintained high-load websites, back-office systems, and mobile applications for B2B clients in manufacturing and events. Delivered projects in 3 to 6 months with modern web stacks and agile delivery.",
       "responsibilities": [
         "Developed websites, back-office systems, and mobile applications for B2B clients.",
-        "Tested and deployed code to ensure functionality and reliability.",
-        "Contributed to the maintenance and evolution of existing projects.",
-        "Implemented processes to maintain consistent code quality.",
-        "Organized sprints and applied agile principles to improve project delivery."
+        "Tested and deployed code to production.",
+        "Maintained and evolved existing projects.",
+        "Put processes in place to keep code quality consistent.",
+        "Organized sprints and applied agile practices."
       ],
       "achievements": [
-        "Successfully delivered high-load web applications for clients in various industries.",
-        "Streamlined development processes to ensure consistent code quality.",
-        "Improved project delivery timelines by adopting agile methodologies."
+        "Delivered high-load web applications for clients in several industries.",
+        "Streamlined development so quality checks stayed consistent.",
+        "Shortened delivery timelines by tightening agile habits."
       ],
-      "skills": [
-        "PHP 7  ",
-        "Symfony 6",
-        "React",
-        "MySQL",
-        "MariaDB",
-        "Docker",
-        "Kubernetes",
-        "API REST",
-        "RabbitMQ",
-        "Git",
-        "Gitlab",
-        "Microservices Architecture"
-      ],
+      "skills": ["PHP 7", "Symfony 6", "React", "REST API", "MySQL", "MariaDB", "Docker", "Kubernetes", "RabbitMQ", "Git", "Gitlab"],
       "location_type": "Hybrid",
       "highlights": []
     },
@@ -114,84 +100,84 @@
       "name": "Castelis",
       "location": "Paris, Île-de-France",
       "location_type": "Hybrid",
-      "description": "A company that designs, develops, deploys, and operates innovative and custom digital solutions for clients from all sectors: industrial, tertiary, etc. With a strong team of 85 employees including study and development engineers, cloud engineers, data scientists, project managers, architects, and consultants.",
-      "position": "Back end developer",
+      "description": "Engineering company that designs, builds, and operates custom digital solutions for industrial and tertiary clients.",
+      "position": "Back-end Developer",
       "url": "https://www.castelis.com/",
       "startDate": "2020-02-01",
       "endDate": "2021-09-30",
-      "summary": "Contributed to the development and deployment of custom digital solutions for diverse industry sectors as part of an 85-person technical team. Worked on backend systems using PHP 5.4 and related technologies while collaborating with cloud engineers, data scientists, and architects to deliver innovative solutions.",
+      "summary": "Contributed to custom digital solutions for industrial and tertiary clients in an 85-person technical team. Worked on PHP backends, REST APIs, and RabbitMQ while collaborating with cloud engineers, data scientists, and architects.",
       "responsibilities": [
-        "Developed and maintained custom digital solutions for industrial and tertiary sector clients",
-        "Implemented backend functionalities using PHP 5.4 and MySQL databases",
-        "Built and integrated REST APIs for various client applications",
-        "Managed message queuing systems using RabbitMQ",
-        "Collaborated with cross-functional teams including cloud engineers and data scientists",
-        "Utilized Docker for containerization and deployment",
-        "Maintained version control and CI/CD pipelines using Git and GitLab"
+        "Developed and maintained custom digital solutions for industrial and tertiary clients.",
+        "Implemented backend features with PHP and MySQL.",
+        "Built and integrated REST APIs for client applications.",
+        "Operated message queues with RabbitMQ.",
+        "Collaborated with cloud engineers and data scientists.",
+        "Used Docker for containerization and deployment.",
+        "Maintained Git and GitLab workflows and CI/CD pipelines."
       ],
       "achievements": [
-        "Successfully delivered custom digital solutions for multiple industry sectors",
-        "Contributed to the design and implementation of scalable backend architectures",
-        "Improved system integration through effective API development and message queue implementation",
-        "Participated in modernizing deployment processes using containerization technologies"
+        "Delivered custom digital solutions across several industry sectors.",
+        "Helped design and implement more scalable backend architectures.",
+        "Improved integrations through APIs and message queues.",
+        "Took part in modernizing deployments with containers."
       ],
-      "skills": ["PHP 7", "MySQL", "Docker", "API REST", "RabbitMQ", "Git", "Gitlab"],
+      "skills": ["PHP 7", "MySQL", "Docker", "REST API", "RabbitMQ", "Git", "Gitlab"],
       "highlights": []
     },
     {
       "name": "Youmiam",
       "location": "Paris, Île-de-France",
       "location_type": "Hybrid",
-      "description": "A food-tech company partnering with major retailers like Franprix, Auchan, and Frichti.",
-      "position": "Back end Developer",
-      "url": "https://www.dubruitdanslacuisine.fr/pages/le-blog-du-bruit-dans-la-cuisine",
+      "description": "Food-tech company building a recipe and cooking app, later acquired by Du Bruit dans la Cuisine.",
+      "position": "Back-end Developer",
+      "url": "https://www.dubruitdanslacuisine.fr",
       "startDate": "2018-02-01",
       "endDate": "2020-02-01",
-      "summary": "Managed and developed REST API services for iOS and Android applications while collaborating with major retail partners like Franprix, Auchan, and Frichti. Focused on performance optimization and code quality while contributing to both backend and frontend development tasks.",
+      "summary": "Owned REST APIs for iOS and Android apps while working with retail partners such as Franprix, Auchan, and Frichti. Focused on performance, tests, and documentation, with occasional frontend work.",
       "responsibilities": [
-        "Managed REST API development and maintenance for iOS and Android mobile applications",
-        "Developed and integrated key features in partnership with major retailers",
-        "Identified and implemented performance optimizations to enhance service speed and reliability",
-        "Ensured high code quality through comprehensive testing",
-        "Contributed to frontend development tasks",
-        "Created technical documentation for feature implementations",
-        "Collaborated with mobile development team to ensure seamless API integration"
+        "Developed and maintained REST APIs for iOS and Android apps.",
+        "Shipped features with major retail partners.",
+        "Identified and applied performance improvements.",
+        "Kept quality high with tests.",
+        "Contributed to frontend tasks when needed.",
+        "Wrote technical documentation for new features.",
+        "Worked with the mobile team on API integration."
       ],
       "achievements": [
-        "Successfully integrated key features for major retail partners including Franprix, Auchan, and Frichti",
-        "Improved API performance and reliability through targeted optimizations",
-        "Established comprehensive technical documentation processes for feature implementation",
-        "Maintained high code quality standards through testing and best practices"
+        "Integrated features for retail partners including Franprix, Auchan, and Frichti.",
+        "Improved API performance and reliability.",
+        "Set up clearer documentation for feature work.",
+        "Kept a consistent testing bar on the API."
       ],
-      "skills": ["PHP 7", "Symfony", "MySQL", "API REST"],
+      "skills": ["PHP 7", "Symfony", "MySQL", "REST API"],
       "highlights": []
     },
     {
       "name": "TWIL - The Wine I Love",
       "location": "Saint-Ouen, Île-de-France",
-      "description": "An e-commerce wine platform integrating multiple third-party services and systems.",
-      "position": "Back end Developer",
+      "description": "Wine e-commerce platform connecting a Symfony back office, Magento storefront, and third-party logistics and payment services.",
+      "position": "Back-end Developer",
       "url": "https://www.twil.fr/",
-      "startDate": "2016-09",
+      "startDate": "2016-09-01",
       "endDate": "2018-01-31",
-      "summary": "Developed and maintained multiple systems including a Symfony2 back office, Magento e-commerce platform, and mobile app REST API. Managed integrations with various third-party services while ensuring high code quality and reliable deployments.",
+      "summary": "Developed and maintained a Symfony 2 back office, a Magento e-commerce site, and a mobile REST API. Integrated third-party services and handled production deployments.",
       "responsibilities": [
-        "Developed new features for Symfony2 back office, Magento e-commerce site, and mobile app REST API",
-        "Integrated third-party systems including Mirakl, UPELA, SMoney, and UPS using REST web services",
-        "Managed server infrastructure and production deployments",
-        "Enhanced system reliability through unit testing and code quality improvements",
-        "Contributed to frontend development tasks",
-        "Maintained and optimized e-commerce platform performance",
-        "Coordinated between multiple systems to ensure seamless operation"
+        "Built features for the Symfony 2 back office, Magento store, and mobile REST API.",
+        "Integrated Mirakl, UPELA, SMoney, and UPS over REST.",
+        "Managed servers and production deployments.",
+        "Improved reliability with unit tests and code quality work.",
+        "Contributed to frontend tasks when needed.",
+        "Kept the e-commerce platform performing under load.",
+        "Coordinated behaviour across the back office, store, and API."
       ],
       "achievements": [
-        "Successfully integrated multiple third-party services (Mirakl, UPELA, SMoney, UPS) into the platform",
-        "Improved system reliability through enhanced unit testing coverage",
-        "Streamlined deployment processes and server management procedures",
-        "Maintained high-performance e-commerce operations across multiple platforms"
+        "Integrated Mirakl, UPELA, SMoney, and UPS into the platform.",
+        "Raised confidence in releases with better unit-test coverage.",
+        "Simplified deployments and server operations.",
+        "Kept the store running across several connected systems."
       ],
-      "skills": ["PHP 7", "Symfony", "MySQL", "API REST", "Magento", "API SOAP"],
-      "location_type": "Full-time",
+      "skills": ["PHP 7", "Symfony", "MySQL", "REST API", "Magento", "SOAP API"],
+      "location_type": "On-site",
       "highlights": []
     }
   ],
@@ -203,8 +189,8 @@
       "studyType": "Master's Degree",
       "startDate": "2014",
       "endDate": "2016",
-      "score": "The Web Engineering and e-Business specialization aims to meet industry demand for dual-skilled professionals capable of developing projects and creating value through technology. It provides expertise in three major areas: innovative internet technologies and integration, project management (interfacing with specialized service providers, working in interdisciplinary teams), and e-Commerce operations (marketing strategy, communications, traffic monitoring, SEO, database management, technical maintenance, and navigation usability).",
-      "courses": ["dqsdqsd"]
+      "score": "Web Engineering and e-Business track covering internet technologies, project management, and e-commerce operations (SEO, databases, and product delivery).",
+      "courses": []
     },
     {
       "institution": "OIIO Formation",
@@ -213,7 +199,7 @@
       "studyType": "European Higher Education Diploma (DEES)",
       "startDate": "2013",
       "endDate": "2014",
-      "score": "The European Higher Education Diploma in Webmaster (DEESWEB) is a comprehensive training program that prepares students for Webmaster and Web Designer roles through the study of digital environments and web development techniques, from project management to web development.",
+      "score": "DEESWEB diploma preparing for webmaster and web designer roles, from project management to front-end and back-end development.",
       "courses": []
     },
     {
@@ -223,7 +209,7 @@
       "studyType": "Advanced Technical Diploma (BTS)",
       "startDate": "2010",
       "endDate": "2012",
-      "score": "The IRIS Computer Science BTS trains professionals to create and manage complex computer applications and systems for industrial equipment production and technical services. The program covers everything from hardware and software system design to installation, maintenance, and monitoring of IT systems. The IT work is characterized by a close relationship between hardware and software, interaction with industrial and/or technical environments (robotics, Computer-Aided Design CAD, as well as telecommunications and networks).",
+      "score": "BTS IRIS focused on designing, installing, and maintaining hardware/software systems in industrial and networked environments.",
       "courses": []
     }
   ],
@@ -232,112 +218,112 @@
     {
       "name": "Go",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Backend", "Go", "Server"]
+      "keywords": ["Backend", "API", "Concurrency"]
     },
     {
       "name": "PHP",
       "level": "Expert",
-      "keywords": ["Design", "UI"]
+      "keywords": ["Backend", "API", "Web Development"]
     },
     {
       "name": "Symfony",
       "level": "Expert",
-      "keywords": ["Design", "UI"]
+      "keywords": ["Backend", "PHP", "API"]
     },
     {
       "name": "AdonisJS",
       "level": "Expert",
-      "keywords": ["Design", "UI"]
+      "keywords": ["Backend", "Node", "API"]
     },
     {
-      "name": "TypeScript",
+      "name": "REST API",
+      "level": "Expert",
+      "keywords": ["Backend", "HTTP", "Integration"]
+    },
+    {
+      "name": "PostgreSQL",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
-    },
-    {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": ["Web Development", "Frontend", "React Framework", "SSR", "Static Generation"]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
-    },
-    {
-      "name": "HTML",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend"]
-    },
-    {
-      "name": "Docker",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend"]
-    },
-    {
-      "name": "RabbitMQ",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend"]
-    },
-    {
-      "name": "Api Rest",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend"]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "Responsive Design"]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "CSS Framework", "Responsive Design"]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+      "keywords": ["Database", "SQL", "Backend"]
     },
     {
       "name": "MySQL",
       "level": "Intermediate",
-      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
+      "keywords": ["Database", "SQL", "Backend"]
     },
     {
-      "name": "Git",
+      "name": "RabbitMQ",
       "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code"]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code"]
-    },
-    {
-      "name": "GitHub",
-      "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code"]
-    },
-    {
-      "name": "Kubernetes",
-      "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code"]
-    },
-    {
-      "name": "Ansible",
-      "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code"]
+      "keywords": ["Messaging", "Events", "Backend"]
     },
     {
       "name": "Docker",
       "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code"]
+      "keywords": ["Containers", "DevOps", "Deployment"]
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Intermediate",
+      "keywords": ["Containers", "Orchestration", "DevOps"]
+    },
+    {
+      "name": "Ansible",
+      "level": "Intermediate",
+      "keywords": ["Automation", "Infrastructure", "DevOps"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": ["Frontend", "Backend", "JavaScript"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": ["Frontend", "Backend", "Web Development"]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": ["Backend", "JavaScript", "API"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Intermediate",
+      "keywords": ["Frontend", "React", "TypeScript"]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": ["Frontend", "UI", "JavaScript"]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": ["Frontend", "Web Development"]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": ["Frontend", "Responsive Design"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": ["Frontend", "CSS", "UI"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "CI", "Collaboration"]
+    },
+    {
+      "name": "Gitlab",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "CI", "Collaboration"]
     }
   ],
   "languages": [
@@ -355,15 +341,15 @@
     {
       "name": "Workflow API",
       "isActive": true,
-      "description": "Go backend for a visual HTTP workflow builder: teams compose endpoints into graphs of steps, run them on demand or on a schedule, and collaborate in realtime.",
-      "highlights": ["Go, Fiber, PostgreSQL", "RabbitMQ event-driven orchestration", "Clerk auth, Stripe billing, Centrifugo realtime"],
+      "description": "Go backend for a visual HTTP workflow builder. Teams compose endpoints into graphs of steps, run them on demand or on a schedule, and collaborate in real time.",
+      "highlights": ["Go, Fiber, PostgreSQL", "RabbitMQ event-driven orchestration", "Clerk auth, Stripe billing, Centrifugo"],
       "url": "https://github.com/clmntgbr/workflow-api",
       "github": "https://github.com/clmntgbr/workflow-api"
     },
     {
       "name": "Workflow App",
       "isActive": true,
-      "description": "Next.js frontend for the visual HTTP workflow builder, with a realtime canvas, Clerk authentication, and a protected proxy to the Go API.",
+      "description": "Next.js frontend for the visual HTTP workflow builder, with a real-time canvas, Clerk authentication, and a protected proxy to the Go API.",
       "highlights": ["Next.js, React, TypeScript", "XYFlow canvas", "Clerk, Tailwind CSS, shadcn/ui"],
       "url": "https://github.com/clmntgbr/workflow-app",
       "github": "https://github.com/clmntgbr/workflow-app"
@@ -371,7 +357,7 @@
     {
       "name": "IsAIorNot API",
       "isActive": true,
-      "description": "Go API to detect whether content is AI-generated, with confidence scoring and a scalable event-driven workflow.",
+      "description": "Go API that estimates whether content is AI-generated, with confidence scoring and an event-driven processing pipeline.",
       "highlights": ["Go, Fiber, PostgreSQL", "CQRS and RabbitMQ outbox", "Clerk JWT auth"],
       "url": "https://github.com/clmntgbr/isaiornot-api",
       "github": "https://github.com/clmntgbr/isaiornot-api"
@@ -379,7 +365,7 @@
     {
       "name": "IsAIorNot App",
       "isActive": true,
-      "description": "Next.js app for detecting AI-generated images and videos via the Go API, with realtime scan updates, confidence scoring, and subscription-based usage.",
+      "description": "Next.js app to scan images and videos for AI generation via the Go API, with live updates, confidence scores, and subscription quotas.",
       "highlights": ["Next.js, React, TypeScript", "Clerk, Stripe, Centrifugo", "Tailwind CSS, shadcn/ui"],
       "url": "https://isaiornot-app-henna.vercel.app",
       "github": "https://github.com/clmntgbr/isaiornot-app"
@@ -387,15 +373,15 @@
     {
       "name": "Go API Template",
       "isActive": true,
-      "description": "Go API template with Fiber, PostgreSQL, and Clerk authentication, including JWT protection, Clerk webhook sync, and Docker/Makefile workflows for fast local development.",
-      "highlights": ["Go, Fiber, PostgreSQL", "Clerk JWT and webhooks", "Docker and Makefile developer stack"],
+      "description": "Starter Go API with Fiber, PostgreSQL, Clerk JWT auth, webhook sync, and a Docker/Makefile workflow for local development.",
+      "highlights": ["Go, Fiber, PostgreSQL", "Clerk JWT and webhooks", "Docker and Makefile"],
       "url": "https://github.com/clmntgbr/go-api",
       "github": "https://github.com/clmntgbr/go-api"
     },
     {
       "name": "Next.js App Template",
       "isActive": true,
-      "description": "Next.js app template with Clerk authentication and protected API proxy routes, including secure JWT forwarding to a Go backend.",
+      "description": "Starter Next.js app with Clerk auth, route protection, and a secure JWT proxy to a Go backend.",
       "highlights": ["Next.js, React, TypeScript", "Clerk auth guards", "Protected proxy to Go API"],
       "url": "https://github.com/clmntgbr/next-app",
       "github": "https://github.com/clmntgbr/next-app"
